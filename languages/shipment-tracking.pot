@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Shipment Tracking\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Carrier"
+msgstr ""
+
+msgid "Carrier:"
+msgstr ""
+
+msgid "Carrier: %s — %s"
+msgstr ""
+
+msgid "Carriers"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Separate with commas: Yurtiçi Kargo,Aras Kargo,Sürat Kargo"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shipment tracking"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Tracking number"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
